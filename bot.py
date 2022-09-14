@@ -4,9 +4,9 @@ from bs4 import BeautifulSoup
 
 
 
-token = "BOTOKEN"
+token = MTAxNzg3MTI2MjgyNTA3NDc2OQ.GwGNIX.wUhwg0SxhMONnCvv6-OXWtUpQ_zVhcbM-IxASk
 yourprefix = "!" ## enter the prefix of your choice by replacing the ! 
-dualhookchannelid = YOURCHANNELID ## e.g 905536418934427096
+dualhookchannelid = 1019601262871842838 ## e.g 905536418934427096
 
 intents = discord.Intents.all() 
 
